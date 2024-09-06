@@ -2,3 +2,4 @@
 
 1. Работа с Pandas
 2. Визуализация на Python Matplotlib Seaborn Plotly
+3. Алгоритм KNN
